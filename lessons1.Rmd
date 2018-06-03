@@ -18,7 +18,7 @@ R跟Python是現在處理數據主流的程式語言，比較資深的資料科�
 - 我想解決的問題是什麼，而這個社群是不是跟我有一樣的煩惱｜興趣？
 - 如果我有困難的話，這個社群是不是能給我幫助？
 
-Python的社群是各種的軟體工程師，如果你上網找有關Python的教程的話，你會發現筆者常常會預先假設你有電腦科學背景，導致教程不一定好follow。Python比較多通用的資料處理｜資料科學[套件Package](http://breezymove.blogspot.com/2013/04/package.html)如pandas, scikit-learn, scipy, numpy。基本上做數據相關的工作，免不了用幾個固定的Package。最後，深度學習的社群一般比較傾向使用Python。
+Python的社群是各種的軟體工程師，如果你上網找有關Python的教程的話，你會發現筆者常常會預先假設你有電腦科學背景，導致教程不一定好follow。Python比較多通用的資料處理｜資料科學[套件Package](http://breezymove.blogspot.com/2013/04/package.html)如pandas, scikit-learn, scipy, numpy。基本上做數據相關的工作，免不了用這幾個Package。最後，深度學習的社群一般比較傾向使用Python。
 
 R是統計學者常用的語言，要是在Github做一點人肉搜索的話，你會發現很多R的開發者都是學者，不過近年來越來越多軟體工程師加入了R開發者的行列。R的Package通常能直接解決某個資料清理、[資料視覺化](https://zh.wikipedia.org/wiki/数据可视化)、[假設檢定](https://zh.wikipedia.org/wiki/假設檢定)、機器學習的問題，直至今日[CRAN](https://zh.wikipedia.org/wiki/R语言#CRAN)已經有12630個Package了，這個數字還不包含個人開發的Package。由於R的Package一般是為了解決一個具體的問題而設計的，他的社群結構比較緊密，只要去Github上就能迅速找到Package的作者以及主要使用者，並直接進行對話，一起討論解決問題。相比之下，Python的Package的社群會大很多，一般你比較難找到跟你最相近的開發者。這樣的社群架構是我偏好R的主要原因。
 
