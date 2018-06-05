@@ -2,7 +2,7 @@
 title: "beginnR - 第一課"
 author: "Amy Tzu-Yu Chen"
 date: "May 31, 2018"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ### 資料科學
