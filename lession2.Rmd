@@ -5,7 +5,10 @@ date: "6/2/2018"
 output: html_document
 ---
 
+## 如何選用一個Package?
+
 ### baseR
+R
 vector
 list 
 data.frame
