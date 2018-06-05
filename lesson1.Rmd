@@ -26,6 +26,9 @@ R是統計學者常用的語言，要是在Github做一點人肉搜索的話，�
 
 ### 資料科學工作流 - Data Science Workflow
 ![資料科學工作流](./workflow.png)
+注:圖中顯示的資料科學工作流大致跟Hadley在[R for Data Science](http://r4ds.had.co.nz/introduction.html)裡面所介紹的一樣，我把原圖翻成了中文，並且自己加了EDA和改進數據兩小點。
+
+
 
 ### 如何選用一個Package?
 
