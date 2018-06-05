@@ -16,6 +16,10 @@
 
 ### 教程進度
 每週更新一至兩課。
+
+- [第一課](https://github.com/amy17519/beginnR/blob/master/lesson1.Rmd)
+
+
 若對內容有疑問或者想糾錯，可以開個issue或者直接email給我。
 
 
