@@ -15,7 +15,6 @@
 - 機器｜深度學習 (因為能正確讀取清理數據後，談建模才有意義）
 
 ### 教程進度
-每週更新一至兩課。
 
 - [第一課](https://github.com/amy17519/beginnR/blob/master/lesson1.Rmd)
 
